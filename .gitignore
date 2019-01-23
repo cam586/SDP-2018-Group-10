@@ -1,0 +1,6 @@
+__pycache__/
+.vagrant/
+Vagrantfile
+bashrc
+bootstrap.sh
+spam/spam.db
